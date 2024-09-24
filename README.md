@@ -4,7 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Elaine Lyu: https://github.com/ElaineR02
+Linda Li: https://github.com/Applejam-ovo
+Hannah Liang: https://github.com/HannahLiang627 
+Rita He: https://github.com/ritaziruihe
+
 
 ## Stakeholders
 
