@@ -17,7 +17,8 @@ Goals/needs:
 - clear game rules can be found
 - help scoring
 - contain various types of games (mahjong from different regions, texas hold’em, etc)
-- Record cards     
+- Record cards  
+   
 Problems/frustrations: 
 - Unclear about game rules
 - don’t know how to score
