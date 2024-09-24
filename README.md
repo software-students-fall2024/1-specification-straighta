@@ -4,21 +4,21 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Elaine Lyu: https://github.com/ElaineR02
-Linda Li: https://github.com/Applejam-ovo
-Hannah Liang: https://github.com/HannahLiang627 
+Elaine Lyu: https://github.com/ElaineR02     
+Linda Li: https://github.com/Applejam-ovo     
+Hannah Liang: https://github.com/HannahLiang627      
 Rita He: https://github.com/ritaziruihe
 
 
 ## Stakeholders
 
-Name: Isi Fang
+Name: Isi Fang     
 Goals/needs: 
 - clear game rules can be found
 - help scoring
 - contain various types of games (mahjong from different regions, texas hold’em, etc)
-- Record cards
-problems/frustrations: 
+- Record cards     
+Problems/frustrations: 
 - Unclear about game rules
 - don’t know how to score
 - Want to calculate what cards haven’t been played but hard to remember
@@ -41,7 +41,7 @@ A tool acts as a helper for board game players to better understand rules, card 
 user story:     
 As a new Texas hold ’em player, I want clear game rules and scoring rules so that I can understand the game in a short time and figure out how to play the game.      
 
-![the corresponding activity diagram](Activity diagram.jpg)
+![the corresponding activity diagram](img/diagram1.jpg)
 
 ## Clickable Prototype 
 Link: https://www.figma.com/proto/hSei4vH2WDLJO4FqNnxhWR/Board-Game-Wireframe?node-id=5-5&node-type=frame&t=vNiWtVipvMruouh0-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A5 
