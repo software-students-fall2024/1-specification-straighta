@@ -22,6 +22,5 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
 
-## Clickable Prototype
-
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+## Clickable Prototype 
+Link: https://www.figma.com/proto/hSei4vH2WDLJO4FqNnxhWR/Board-Game-Wireframe?node-id=5-5&node-type=frame&t=vNiWtVipvMruouh0-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A5 
