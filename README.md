@@ -5,6 +5,10 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 Elaine Lyu: https://github.com/ElaineR02
+Linda Li: https://github.com/Applejam-ovo
+Hannah Liang: https://github.com/HannahLiang627 
+Rita He: https://github.com/ritaziruihe
+
 
 ## Stakeholders
 
@@ -39,6 +43,5 @@ As a new Texas hold ’em player, I want clear game rules and scoring rules so t
 
 ![the corresponding activity diagram](Activity diagram.jpg)
 
-## Clickable Prototype
-
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+## Clickable Prototype 
+Link: https://www.figma.com/proto/hSei4vH2WDLJO4FqNnxhWR/Board-Game-Wireframe?node-id=5-5&node-type=frame&t=vNiWtVipvMruouh0-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A5 
