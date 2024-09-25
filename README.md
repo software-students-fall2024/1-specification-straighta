@@ -25,7 +25,7 @@ Problems/frustrations:
 - Want to calculate what cards haven’t been played but hard to remember
 - Sometimes players have disagreements upon the game rule, even they are playing the same game from the same region
 
-**Name: Sammi Cui**
+**Name: Sammi Cui** <br>
 Goals/needs: 
 - Able to distinguish between Mahjong rules from different regions
 - Help scoring
